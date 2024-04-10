@@ -85,6 +85,9 @@ body {
   padding: 100px 0;
   background-color: black;
   color: white;
+  background-size: cover;
+  background-image: url(../img/services_fon.jpg);
+  background-position: top;
 }
 
 .services-list {
